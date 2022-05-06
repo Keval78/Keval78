@@ -19,11 +19,15 @@
 
 ## &#x1f4c8; GitHub Stats
 
+<!-- <a href="https://github.com/Keval78/Keval78">
+  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keval78&langs_count=3" />
+</a> -->
+<br/>
 <a href="https://github.com/Keval78/Keval78">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keval78&langs_count=3" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Keval78&theme=radical" alt="Keval's GitHub Stats" />
 </a>
 <a href="https://github.com/Keval78/Keval78">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Keval78&theme=radical" alt="Keval's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Keval78&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
 
