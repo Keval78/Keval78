@@ -10,7 +10,7 @@
 ## 👨🏻‍💻 About Me
 - 🔭 I’m currently learning Data Science.
 - 🌱 I’m currently practicing competitive coding at [HackerEarth](https://www.hackerearth.com/@keval0708) & [Codechef](https://www.codechef.com/users/keval_78)
-- :hourglass_flowing_sand:  Exploring Google Tensorflow & AWS Machine Learning.
+- :hourglass_flowing_sand:  Exploring Google's Tensorflow & AWS Machine Learning.
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 
 
