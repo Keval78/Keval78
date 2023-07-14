@@ -4,16 +4,20 @@
 <h1 align="center">Hi! I'm Keval <img src="https://raw.githubusercontent.com/Keval78/Keval78/main/wave.gif" width="30px"></h1>
 -->
 <p align="center">
-  <img src="https://github.com/Keval78/Keval78/blob/main/Keval78.gif" alt="Hi, I'm Keval 👋 I'm a 🚀 Python developer 🚀 ">
+  <img src="https://github.com/Keval78/Keval78/blob/main/Keval78.gif" alt="Hi, I'm Keval 👋 I'm a 🚀 Python Developer 🚀 ">
 </p>
 
-## 👨🏻‍💻 About Me
-- 🔭 I’m currently learning Data Science.
-- 🌱 I’m currently practicing competitive coding at [HackerEarth](https://www.hackerearth.com/@keval0708) & [Codechef](https://www.codechef.com/users/keval_78)
-- :hourglass_flowing_sand:  Exploring Google's Tensorflow & AWS Machine Learning.
+## 👨🏻‍💻 Thanks for stopping by. Here's a little bit about myself...
+- 🔭 Over enthusiast about cutting-edge Data Engineering and AI Technology. :hourglass_flowing_sand: That's why continuosly wandering around.
+- 🌱 I’m currently practicing competitive coding at...
+  - **Leetcode**: [leetcode.com/Keval_78](https://leetcode.com/Keval_78/) &
+  - **HackerEarth**: [hackerearth.com/@keval0708](https://www.hackerearth.com/@keval0708)
+  <!-- - **Codechef**: [leetcode.com/Keval_78](https://www.codechef.com/users/keval_78) -->
+- 📫 Here's how you can reach me:
+  - **Email**: [kevalpadsala007@gmail.com](kevalpadsala007@gmail.com)
+  - **LinkedIn**: [linkedin.com/kevalpadsala78](https://www.linkedin.com/in/kevalpadsala78/)
+- Check out my [Portfolio](https://github.com/Keval78/Portfolio-Keval_78) for all of my projects, micro-projects, skills, certificates, and achievements. In my free time, I like to read, hike, travel, and explore different music genres over a cup of tea (In no particular order).
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-
-
 
 
 
